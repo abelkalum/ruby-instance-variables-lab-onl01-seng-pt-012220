@@ -4,7 +4,10 @@ class Dog
   end
   
   def name
+    def name
     this_dogs_name
+  end
+end
   end
 end
 
